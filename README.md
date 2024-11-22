@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development with Python<br>🌱 I’m currently learning Docker & Kubernetes<br>⚡ Fun fact: I only sleep 5 hours a day.
+🔭 I’m devote myself on Backend Development mainly with Python<br>🌱 I’m currently learning Docker & Kubernetes, along with GCP<br>⚡ Fun fact: I only sleep 5 hours a day because I can't allow myself to rest.
 
 
 ## 🌐 Socials:
