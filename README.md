@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m devoting myself on Backend Development mainly with Python and Golang.<br>🌱 I’m currently learning Golang, Docker and Kubernetes, along with AWS<br>⚡ Fun fact: I usually only sleep 6 hours a day because I can't allow myself to rest.
+🔭 I’m devoting myself on Software Development mainly with Python, Golang, and Rust.<br>🌱 I’m aiming for DevOps and Cloud Architecture.<br>⚡ Fun fact: I usually only sleep 6 hours a day because I can't allow myself to rest.
 
 
 ## 🌐 Socials:
